@@ -5,8 +5,8 @@ ex. f -> i or f -> c based on where the f is
 
 ## inputs
 
-1 is for encryption 0 is for decryption
-string to encrypt/decrypt
-1 for an additional shift 0 for none
-^^ this is just an addition
+1 is for encryption 0 is for decryption<br>
+string to encrypt/decrypt<br>
+1 for an additional shift 0 for none<br>
+^^ this is just an addition<br>
 output
