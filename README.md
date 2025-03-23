@@ -1,6 +1,6 @@
 # Homemade encryption
 ## how it works
-basicaly, what this script does is take the position of a given character and based on the position the character is in the string, it will either shift up or down
+this script takes the position of a given character and based on the position the character is in the string, it will either shift up or down
 ex. f -> i or f -> c based on where the f is
 
 ## inputs
